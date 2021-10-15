@@ -2,7 +2,7 @@
     "name": "service-connector",
     "version": "1.0.2",
     "description": "Connect different services using a simple structure (providers, parsers and consumers)",
-    "license": "ISC",
+    "license": "MIT",
     "repository": "unparallel-innovation/Service-Connector-Core",
     "main": "service-connector.js",
     "keywords": [
