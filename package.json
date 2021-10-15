@@ -1,6 +1,6 @@
 {
     "name": "service-connector",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Connect different services using a simple structure (providers, parsers and consumers)",
     "license": "ISC",
     "repository": "unparallel-innovation/Service-Connector-Core",
